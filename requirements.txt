@@ -1,0 +1,10 @@
+scipy
+category_encoders
+numpy
+torch
+pandas
+lightgbm
+scikit_learn
+torchvision>=0.4.2
+python-dateutil
+tqdm
